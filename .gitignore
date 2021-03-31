@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Javitz authorization token goes here
+auth
+
+# App makes a sqlite database and stores when it sees appointments
+javitz.sqlite3
+.DS_Store
+# Path I like to use for virtualenvs
+v/
